@@ -30,10 +30,10 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
-			"font"			"Sifonn18"
+			"font"			"Sifonn20"
 			"fgcolor"		"255 255 255 255"
 			"xpos"			"16"
-			"ypos"			"-8"
+			"ypos"			"-6"
 			"ypos_minmode"	"6"
 			"ypos_hidef"	"15"
 			"ypos_lodef"	"18"

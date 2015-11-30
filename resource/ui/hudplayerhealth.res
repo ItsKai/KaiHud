@@ -78,7 +78,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"Sifonn44"
+		"font"			"Sifonn48"
 		"fgcolor"		"50 200 250 255"
 	}	
 	"PlayerStatusHealthValueBG"
@@ -94,7 +94,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
-		"font"			"Sifonn44"
+		"font"			"Sifonn48"
 		"fgcolor"		"0 0 0 255"
 	}	
 	"PlayerStatusBleedImage"

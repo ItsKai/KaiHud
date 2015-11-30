@@ -44,9 +44,9 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClip"
-		"font"			"Sifonn44"
+		"font"			"Sifonn48"
 		"fgcolor"		"255 255 255 255"
-		"xpos"			"-40"
+		"xpos"			"-41"
 		"ypos"			"6"
 		"zpos"			"5"
 		"wide"			"100"
@@ -63,9 +63,9 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClipShadow"
-		"font"			"Sifonn44"
+		"font"			"Sifonn48"
 		"fgcolor"		"0 0 0 255"
-		"xpos"			"-37"
+		"xpos"			"-38"
 		"ypos"			"8"
 		"zpos"			"5"
 		"wide"			"100"
