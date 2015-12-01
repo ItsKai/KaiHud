@@ -56,7 +56,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
-		"font"			"Sifonn12"
+		"font"			"Sifonn14"
 		"fgcolor"		"255 255 255 255"
 	}					
 	"WaitingForPlayersBG"

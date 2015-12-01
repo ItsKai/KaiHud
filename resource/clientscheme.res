@@ -19,7 +19,11 @@ Scheme
 	Colors
 	{
 		//KaiHud Colours
-		"MainBlue"			"46 143 255 1"
+		"HudBlue"			"50 200 250 255"
+		"RedTeam"			"158 64 61 255"
+		"BlueTeam"			"30 112 150 255"
+		
+		
 		// base colors
 		"Orange"			"178 82 22 255"
 		"OrangeDim"			"178 82 22 120"
@@ -2903,6 +2907,19 @@ Scheme
 			}
 		}
 
+		
+		Sifonn8
+		{
+			"1"
+			{
+				"name"		"Sifonn-Basic"
+				"tall"		"8"
+				"weight"	"500"
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}	
+		
 		Sifonn10
 		{
 			"1"
@@ -2957,6 +2974,18 @@ Scheme
 			{
 				"name"		"Sifonn-Basic"
 				"tall"		"18"
+				"weight"	"500"
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}	
+
+		Sifonn19
+		{
+			"1"
+			{
+				"name"		"Sifonn-Basic"
+				"tall"		"19"
 				"weight"	"500"
 				"antialias" "1"
 				"additive"	"0"
