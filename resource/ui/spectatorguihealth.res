@@ -73,33 +73,18 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-<<<<<<< HEAD
 		"xpos"			"-14"
 		"ypos"			"4"
 		"zpos"			"5"
 		"wide"			"60"
-=======
-		"xpos"			"0"
-		"xpos_minmode"	"7"
-		"ypos"			"5"
-		"ypos_minmode"	"7"
-		"zpos"			"5"
-		"wide"			"40"
-		"wide_minmode"	"14"
->>>>>>> origin/master
 		"tall"			"20"
 		"tall_minmode"	"14"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-<<<<<<< HEAD
 		"font"			"Sifonn19"
 		"fgcolor"		"50 200 250 255"
-=======
-		"font"			"Sifonn24"
-		"fgcolor"		"255 255 255 255"
->>>>>>> origin/master
 	}
 	"PlayerStatusPlayerLevel"
 	{

@@ -270,17 +270,10 @@
 		"fieldName" 	"CSpectatorTargetID"
 		"visible" 	"0"
 		"enabled" 	"0"
-<<<<<<< HEAD
 		"xpos"		"400"
 		"ypos"		"350"
 		"wide"	 	"252"
 		"tall"	 	"30"
-=======
-		"xpos"		"100"
-		"ypos"		"250"
-		"wide"	 	"252"
-		"tall"	 	"35"
->>>>>>> origin/master
 	}
 	
 	CSecondaryTargetID
