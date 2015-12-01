@@ -253,13 +253,10 @@
 		"fieldName" 	"CMainTargetID"
 		"visible" 	"0"
 		"enabled" 	"1"
-		"xpos"		"c-126"
+		"xpos"		"0"
 		"ypos"		"285"
 		"wide"	 	"252"
 		"tall"	 	"35"
-		"tall_minmode"	 	"28"
-		"priority"	"40"
-		"priority_lodef"	"5"
 
 		if_vr
 		{
@@ -272,17 +269,11 @@
 	{
 		"fieldName" 	"CSpectatorTargetID"
 		"visible" 	"0"
-		"enabled" 	"1"
-		"xpos"		"c-126"
+		"enabled" 	"0"
+		"xpos"		"100"
 		"ypos"		"250"
 		"wide"	 	"252"
 		"tall"	 	"35"
-		"tall_minmode"	 	"28"
-		"priority"	"40"
-		"priority_lodef" "35"
-		
-		"x_offset" "20"
-		"y_offset" "20"
 	}
 	
 	CSecondaryTargetID
