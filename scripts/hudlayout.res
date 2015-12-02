@@ -270,10 +270,10 @@
 		"fieldName" 	"CSpectatorTargetID"
 		"visible" 	"0"
 		"enabled" 	"0"
-		"xpos"		"100"
-		"ypos"		"250"
+		"xpos"		"400"
+		"ypos"		"350"
 		"wide"	 	"252"
-		"tall"	 	"35"
+		"tall"	 	"30"
 	}
 	
 	CSecondaryTargetID
@@ -282,7 +282,7 @@
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-126"
-		"ypos"		"335"
+		"ypos"		"305"
 		"wide"	 	"252"
 		"tall"	 	"35"
 		"tall_minmode"	 	"28"
