@@ -373,8 +373,8 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"autoresize"	"3"
-		"linespacing"	"22"
-		"fgcolor"		"blue"
+		"linespacing"	"17"
+		"fgcolor"		"BlueTeam"
 		//"show_columns"	"1"
 		
 		if_mvm
@@ -401,8 +401,8 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"autoresize"	"3"
-		"linespacing"	"22"
-		"textcolor"		"red"
+		"linespacing"	"17"
+		"textcolor"		"RedTeam"
 		//"show_columns"	"1"
 
  		if_mvm
