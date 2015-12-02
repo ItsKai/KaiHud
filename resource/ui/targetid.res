@@ -119,8 +119,8 @@
 		"labelText"		"%targetdata%"
 		"textAlignment"		"Left"
 		"fgcolor"		"255 255 255 255"
-
 	}
+
 	"SpectatorGUIHealth"
 	{
 		"ControlName"		"EditablePanel"
